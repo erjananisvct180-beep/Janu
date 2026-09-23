@@ -1,5 +1,4 @@
-#jana
-Pandas_Code_Lab.ipynb
+
 {
   "cells": [
     {
